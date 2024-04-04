@@ -1,0 +1,51 @@
+.caja1 {
+    background-color: pink;
+    width: 500px;
+    height: 400px;
+    color: rgb(239, 245, 243);
+    padding: 20px;
+    margin: auto;
+    background-image: url("../images/timothee-chalamet-dune-2-65c4ce48494c5.jpg");
+background-size: cover;
+border: solid 3px pink;
+margin-block-end: 20px;
+float: left;
+margin-right: 20px;
+}
+.caja2 {
+    background-color: blueviolet;
+    width: 500px;
+    height: 400px;
+    color: beige;
+    padding: 20px;
+    margin: auto;
+    background-image: url("../images/1388060496.webp");
+    border: solid 3px rgb(118, 217, 224);
+ background-size: cover;
+ margin-block-end: 20px;
+ float: left;
+}
+.caja3 {
+    background-color: rgb(124, 182, 221);
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    padding: 20px;
+    background-image: url("../images/timoth.jpg");
+    background-size: cover;
+    border: solid 3px rgb(236, 39, 194);
+    margin-block-end: 20px;
+    float: left;
+    margin-right: 20px;
+}
+.caja4 {
+    background-color: rgb(221, 44, 168);
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    border: solid 3px rgb(149, 230, 112);
+    background-image: url("../images/Timothee-Chalamet.jpg");
+    background-size: cover;
+    margin-block-end: 20px;
+    float: left;
+}
